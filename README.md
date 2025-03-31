@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=4929F7&center=true&repeat=false&width=435&height=45&lines=lUcKyDr4f7" />
 
 <pre align="center"  height="60" >
- 💻  A Future Software Developer FullStack * 3D artist * Want to be a GameDev 💻
+💻  A Future Software Developer FullStack * 3D artist * Want to be a GameDev 💻
 </pre>
 
 <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=lUcKyDr4f7&hide=prs,issues&show_icons=true&theme=transparent"/>
@@ -16,8 +16,8 @@
 
 
 ________________________________________________________________________________________________________________________________________________________
-* #### 📖 Aprendendo html, css, java script e c 
-* #### 💾 Noções Básicas em Java ☕
+* ##### 📖 Learning html, css, java script e c 
+* ##### 💾 Java Basics ☕
 ________________________________________________________________________________________________________________________________________________________
 
 

@@ -8,8 +8,8 @@
  💻  A Future Software Developer FullStack * 3D artist * Want to be a GameDev 💻
 </pre>
 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lUcKyDr4f7&hide=prs,issues&show_icons=true&theme=transparent"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lUcKyDr4f7&layout=compact&langs_count=16&theme=transparent"/>
+<img  height="140em" src="https://github-readme-stats.vercel.app/api?username=lUcKyDr4f7&hide=prs,issues&show_icons=true&theme=transparent"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lUcKyDr4f7&layout=compact&langs_count=16&theme=transparent"/>
 <br>
 
 </div>

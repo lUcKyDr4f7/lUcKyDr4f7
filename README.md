@@ -5,7 +5,7 @@
 <div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=4929F7&center=true&repeat=false&width=435&height=45&lines=lUcKyDr4f7" />
-<h2> <pre> 💻  A Future Software Developer FullStack * 3D artist * Want to be a GameDev 💻</h2></pre>
+<h3> <pre> 💻  A Future Software Developer FullStack * 3D artist * Want to be a GameDev 💻</h3></pre>
 
 <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=lUcKyDr4f7&hide=prs,issues&show_icons=true&theme=transparent"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lUcKyDr4f7&layout=compact&langs_count=16&theme=transparent"/>

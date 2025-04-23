@@ -3,8 +3,6 @@
  </h1>
  
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=4929F7&center=true&repeat=false&width=435&height=45&lines=lUcKyDr4f7" />
 <h3> <pre> 💻  A Future Software Developer FullStack * 3D artist * Want to be a GameDev 💻</h3></pre>
 
 <img  height="130em" src="https://github-readme-stats.vercel.app/api?username=lUcKyDr4f7&hide=prs,issues&show_icons=true&theme=transparent"/>
@@ -26,4 +24,5 @@ ________________________________________________________________________________
 <div align="center"> 
   <a href="mailto:lucaspcarril@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-pfutzenreuter-carril" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://github.com/lUcKyDr4f7.github.io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
